@@ -122,3 +122,14 @@ header ul>li{
     position: relative;
     top: -1px;
 }
+/*button position*/
+.link_store>ul{
+    position:absolute;
+    left: 5vh;
+    top: 490px;
+    display: flex;
+    padding-left: 40px;
+}
+.link_store_2{
+    margin-left: 10px;
+}
