@@ -380,3 +380,17 @@ a:-webkit-any-link{
     display: flex;
     justify-content: center;
 }
+.section_4_contents{
+    margin-top: -5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.section_4_img{
+    position: absolute;
+    top: 85px;
+    right: 50%;
+    width: 459px;
+    height: 607px;
+    margin-right: 24px;
+}
