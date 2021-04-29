@@ -566,3 +566,15 @@ a:-webkit-any-link{
     top: 2px;
     vertical-align: text-top;
 }
+.section_7{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 930px;
+    position: relative;
+}
+.section_7:hover  .day{
+    height: 0;
+    transition: height 1000ms ease;
+}
