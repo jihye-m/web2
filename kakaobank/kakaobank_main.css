@@ -632,5 +632,12 @@ a:-webkit-any-link{
     height: 563px;
 }
 .star{
-    
+    top: 30%;
+    left: 10%;
+    animation-delay: 300ms;
+}
+.star1{
+    top: 30%;
+    left: 10%;
+    animation-delay: 300ms;
 }
